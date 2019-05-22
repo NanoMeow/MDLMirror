@@ -1,7 +1,7 @@
 [Nano Adblocker]
 ! Title: Malware Domain List
 ! Expires: 5 days
-! Cached: Tue, 21 May 2019 02:06:40 GMT
+! Cached: Wed, 22 May 2019 01:06:50 GMT
 ! License: http://www.malwaredomainlist.com/
 ! Source: https://www.malwaredomainlist.com/hostslist/hosts.txt
 0koryu0.easter.ne.jp
