@@ -1,7 +1,7 @@
 [Nano Adblocker]
 ! Title: Malware Domain List
 ! Expires: 5 days
-! Cached: Wed, 22 Jan 2020 09:51:29 GMT
+! Cached: Thu, 23 Jan 2020 08:51:30 GMT
 ! License: http://www.malwaredomainlist.com/
 ! Source: https://www.malwaredomainlist.com/hostslist/hosts.txt
 0koryu0.easter.ne.jp
@@ -1042,7 +1042,6 @@ www.sasenergia.pt
 www.sbo.it
 www.scanmyphones.com
 www.scantanzania.com
-www.schuh-zentgraf.de
 www.seal-technicsag.ch
 www.secondome.com
 www.sieltre.it
